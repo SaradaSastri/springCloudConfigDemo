@@ -1,0 +1,4 @@
+com\howtodoinjava\core\verify\VerifySpringCoreFeature.class
+com\howtodoinjava\core\config\ApplicationConfiguration.class
+com\howtodoinjava\core\beans\DemoManager.class
+com\howtodoinjava\core\beans\DemoManagerImpl.class
